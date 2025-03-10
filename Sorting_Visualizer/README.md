@@ -22,5 +22,3 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 5) Real time performance tracking (Displays time taken to sort)
-
-Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
